@@ -1,0 +1,81 @@
+body{
+  padding: 0;
+  margin: 0;
+  color:white;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+
+}
+img{
+  width:100%;
+}
+.left{
+  display: inline-block;
+  position: absolute;
+  left:20px;
+  top:1px;
+  width:100px;
+
+}
+.mid
+{
+   display: block;
+   position: absolute;
+   top:0;
+   right:50%;
+ }
+ .navbar {
+   display: inline-block;
+ }
+ .navbar li{
+   display: inline-block;
+ }
+ .navbar li a{
+   color :white;
+   text-decoration: none;
+   padding: 34px 23px;
+ }
+ .navbar li a:hover{
+   color:red;
+ }
+
+
+
+
+.right{
+
+
+ }
+ #manro{
+     position: absolute;
+     top:30px;
+     left:50px;
+     width:80px;
+
+ }
+ #logo{
+   position: absolute;
+   left:28px;
+
+ }
+ .container{
+
+   position: absolute;
+   top:20%;
+   left:18%;
+
+ }
+ .form input{
+   text-align: center;
+   display: inline-block;
+   margin:10px;
+   padding:6px;
+   border:3px solid  black;
+   border-radius: 10px;
+   font-size:
+   width:100px;
+   font-family: 'Baloo Bhaijaan 2', cursive;
+
+
+
+
+ }
